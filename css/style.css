@@ -1,5 +1,6 @@
 body{
 	font-family: Arial;
+	background: url(http://7q5cdt.com1.z0.glb.clouddn.com/bg-canvas_bg.jpg);
 }
 body,ul{
 	padding: 0;
@@ -13,7 +14,7 @@ ul{
 	width: 680px;
 	height: 200px;
 	margin: 50px auto;
-	background-color: #fff;
+	background-color: #fafafa;
 }
 .wrap h1{
 	font-size: 20px;
@@ -22,10 +23,10 @@ ul{
 }
 .shadow-curl{
 	position: relative;
-	box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-	-moz-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-	-o-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
+	box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 80px rgba(0,0,0,0.1) inset;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 80px rgba(0,0,0,0.1) inset;
+	-moz-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 80px rgba(0,0,0,0.1) inset;
+	-o-box-shadow: 0 1px 4px rgba(0,0,0,0.3),0 0 80px rgba(0,0,0,0.1) inset;
 }
 .shadow-curl:after,.shadow-curl:before{
 	content: '';
